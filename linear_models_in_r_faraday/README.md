@@ -1,0 +1,1 @@
+Source: [Linear Models in R, 2nd edition](https://julianfaraway.github.io/faraway/LMR/python/)
